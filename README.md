@@ -19,4 +19,4 @@ This project implements a supervised letter-classification pipeline:
 
 ## Results & Plots
 
-![Training loss over epochs](plots/training_loss.[Confusion matrix (A–Z)](plots/confusion_matrix.
+![Training loss over epochs](plots/training_loss.[Confusion matrix (A–Z)](plots/confusion_matrix.png
